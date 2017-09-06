@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main()
 {
-    int counter;
-    for(counter = 0; counter < 5; counter++)
+    int c;
+    for(c= 0; c < 5; c++)
     {
         printf("Hello \n");
     }
